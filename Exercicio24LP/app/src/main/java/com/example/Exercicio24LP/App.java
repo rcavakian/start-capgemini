@@ -31,7 +31,6 @@ public class App {
                 System.out.println("POSITIVO");
             } else {
                 System.out.println("NEGATIVO");
-
             }
         }
 
